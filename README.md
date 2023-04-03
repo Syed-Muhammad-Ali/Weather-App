@@ -40,15 +40,10 @@ A weather app using Flutter with Provider State Management and WeatherApi.
 
 A new Flutter project.
 
-## Getting Started
+### ⚡️ My Social Medias
 
-This project is a starting point for a Flutter application.
+Twitter: [@Syed-Muhammad-Ali](https://twitter.com/Ali3530345)
 
-A few resources to get you started if this is your first Flutter project:
+LinkedIn: [@Syed-Muhammad-Ali](https://www.linkedin.com/in/syed-muhammad-ali-flutterdeveloper/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub: [@Syed-Muhammad-Ali](https://github.com/Syed-Muhammad-Ali)
